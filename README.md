@@ -1,0 +1,2 @@
+# palmhost
+A server manager.
