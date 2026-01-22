@@ -1,3 +1,3 @@
 # palmhost
-Palmhost is a free open-source server management panel.
+Palmhost is a free open-source server management panel. (will be)
 
